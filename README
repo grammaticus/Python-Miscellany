@@ -17,16 +17,17 @@ $> python [program]
 
 **Included Files**
 
-README -		This file
+README -	This file
 
 bitpop.py - 	Count the bit population (number of 1's) in a binary string
 
 caesar.py - 	Implements a Caesar cipher
 
-fizzbuzz.py -	Classic 'FizzBuzz' problem - print numbers from 1 to n,	substituting "Fizz" for numbers divisible by 3,	"Buzz" for numbers divisible by 5, and "FizzBuzz" for numbers divisible	by both 3 and 5
+fizzbuzz.py -	Classic 'FizzBuzz' problem - print numbers from 1 to n,	substituting "Fizz" for numbers
+		divisible by 3, "Buzz" for numbers divisible by 5, and "FizzBuzz" for numbers divisible by both 3 and 5
 
 kaprekar.py -	Determines if a number is a Kaprekar number
-				(http://en.wikipedia.org/wiki/Kaprekar_number)
+		(http://en.wikipedia.org/wiki/Kaprekar_number)
 
 ninetynine_bottles.py -	prints "99 Bottles of Beer on the Wall"
 
