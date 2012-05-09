@@ -1,36 +1,7 @@
-John H Moore
+Author: John H Moore
 Created: 8 May 2012
 Modified: 8 May 2012
 
-**Description**
-This is just a collection of various Python programs.
+This is repository is just a collection of various Python programs.
 
-
-
-
-**Usage (Linux)**
-
-$> python [program]
-
-
-
-
-**Included Files**
-
-README -	This file
-
-bitpop.py - 	Count the bit population (number of 1's) in a binary string
-
-caesar.py - 	Implements a Caesar cipher
-
-fizzbuzz.py -	Classic 'FizzBuzz' problem - print numbers from 1 to n,	substituting "Fizz" for numbers
-		divisible by 3, "Buzz" for numbers divisible by 5, and "FizzBuzz" for numbers divisible by both 3 and 5
-
-kaprekar.py -	Determines if a number is a Kaprekar number
-		(http://en.wikipedia.org/wiki/Kaprekar_number)
-
-ninetynine_bottles.py -	prints "99 Bottles of Beer on the Wall"
-
-palindrome.py -	Determines if a string is a palindrome
-
-sumsquare.py -	Takes 3 numbers and returns the sum of the squares of the largest two.
+Most of these programs were created in response to the daily programming challenges posted at http://www.reddit.com/r/dailyprogrammer.
