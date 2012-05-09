@@ -1,5 +1,7 @@
 # Kaprekar Number - consider an n-digit number k; square it and add the right n
 # digits to the left n or n-1 digits; if it equals k, then k is a Kaprekar Number
+import sys
+
 def is_kaprekar(k):
 	if k < 10:
 		if k == 1 or k == 9:
@@ -16,5 +18,9 @@ def is_kaprekar(k):
 	return False
 
 if __name__ == "__main__":
-	k = int(raw_input("Enter a number: "))
+	try:
+		k = int(raw_input("Enter a number: "))
+	except ValueError:
+		print("You must enter a number")
+		sys.exit(0)
 	print(is_kaprekar(k))
