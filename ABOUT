@@ -28,4 +28,5 @@ ninetynine_bottles.py -	prints "99 Bottles of Beer on the Wall"
 
 palindrome.py -	Determines if a string is a palindrome
 
+sort_even_odd -	Sorts a list by even and odd numbers, placing even numbers at the front.
 sumsquare.py -	Takes 3 numbers and returns the sum of the squares of the largest two.
